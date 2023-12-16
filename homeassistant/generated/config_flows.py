@@ -51,7 +51,6 @@ FLOWS = {
         "apple_tv",
         "aranet",
         "arcam_fmj",
-        "arduino_gpio_usb",
         "aseko_pool_live",
         "asuswrt",
         "atag",
